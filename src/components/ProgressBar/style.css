@@ -1,0 +1,10 @@
+
+.progress-number{
+  position: relative;
+  top: -51px;
+  text-align: center;
+  width: 100%;
+  
+  height: 32px; /*Altura da barra de progresso*/
+  line-height: 32px;
+}
